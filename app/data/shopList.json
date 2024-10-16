@@ -1,0 +1,2807 @@
+[
+  {
+    "code": "ZG001",
+    "name": "笠岡富岡店",
+    "pref": "33",
+    "address": "笠岡市富岡 271-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.495154,
+      "lng": 133.526542
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG002",
+    "name": "奉還町店",
+    "pref": "33",
+    "address": "岡山市北区奉還町2-8-17",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.668976,
+      "lng": 133.914647
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG013",
+    "name": "高屋店",
+    "pref": "33",
+    "address": "岡山市中区高屋351-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.675353,
+      "lng": 133.969045
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG014",
+    "name": "真備店",
+    "pref": "33",
+    "address": "倉敷市真備町川辺2057",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.637176,
+      "lng": 133.711634
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG025",
+    "name": "落合店",
+    "pref": "33",
+    "address": "高梁市落合町阿部1697-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.777963,
+      "lng": 133.587853
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG026",
+    "name": "高梁店",
+    "pref": "33",
+    "address": "高梁市横町1072-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.784051,
+      "lng": 133.610139
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG028",
+    "name": "加須山店",
+    "pref": "33",
+    "address": "倉敷市加須山277-5",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.588353,
+      "lng": 133.800175
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG029",
+    "name": "連島店",
+    "pref": "33",
+    "address": "倉敷市連島2-7-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.549087,
+      "lng": 133.73884
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG030",
+    "name": "大門店",
+    "pref": "34",
+    "address": "福山市大門町2-23-46",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.495904,
+      "lng": 133.441168
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG031",
+    "name": "沼南店",
+    "pref": "34",
+    "address": "福山市沼隈町大字草深1973-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.388466,
+      "lng": 133.323372
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG033",
+    "name": "美作店",
+    "pref": "33",
+    "address": "美作市入田223-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.00205,
+      "lng": 134.143331
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG034",
+    "name": "矢掛店",
+    "pref": "33",
+    "address": "小田郡矢掛町江良2424",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.613037,
+      "lng": 133.564859
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG035",
+    "name": "勝央店",
+    "pref": "33",
+    "address": "？？？",
+    "storeType": 0,
+    "visited": false,
+    "loc": null,
+    "closed": true
+  },
+  {
+    "code": "ZG036",
+    "name": "一宮店",
+    "pref": "33",
+    "address": "岡山市北区一宮88-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.678547,
+      "lng": 133.872474
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG039",
+    "name": "水呑店",
+    "pref": "34",
+    "address": "福山市水呑町三新田1-639",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.446072,
+      "lng": 133.385359
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG040",
+    "name": "宇野店",
+    "pref": "33",
+    "address": "玉野市宇野2-6-2",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.490615,
+      "lng": 133.943865
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG041",
+    "name": "総社店",
+    "pref": "33",
+    "address": "総社市小寺5",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.677476,
+      "lng": 133.748217
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG042",
+    "name": "院庄店",
+    "pref": "33",
+    "address": "津山市院庄１２４５−１",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.0605886,
+      "lng": 133.9540153
+    },
+    "closed": true
+  },
+  {
+    "code": "ZG043",
+    "name": "久世店",
+    "pref": "33",
+    "address": "真庭市惣180-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 35.073474,
+      "lng": 133.748197
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG046",
+    "name": "曙店",
+    "pref": "34",
+    "address": "福山市曙町3-19-12",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.470235,
+      "lng": 133.39755
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG047",
+    "name": "高崎店",
+    "pref": "33",
+    "address": "玉野市東高崎25-149",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.535768,
+      "lng": 133.895376
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG048",
+    "name": "井原笹賀店",
+    "pref": "33",
+    "address": "井原市笹賀町29-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.595322,
+      "lng": 133.461804
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG049",
+    "name": "総社中央店",
+    "pref": "33",
+    "address": "総社市中央4-21-103",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.670054,
+      "lng": 133.75249
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG050",
+    "name": "南蔵王店",
+    "pref": "34",
+    "address": "福山市南蔵王町2-18-29",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.504774,
+      "lng": 133.395417
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG051",
+    "name": "津高店",
+    "pref": "33",
+    "address": "岡山市北区津高916",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.695296,
+      "lng": 133.903464
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG052",
+    "name": "世羅店",
+    "pref": "34",
+    "address": "世羅郡世羅町西上原878",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.588323,
+      "lng": 133.064015
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG054",
+    "name": "小山店",
+    "pref": "33",
+    "address": "岡山市北区小山52-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.690005,
+      "lng": 133.815744
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG055",
+    "name": "西長瀬店",
+    "pref": "33",
+    "address": "岡山市北区西長瀬118-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.649181,
+      "lng": 133.88082
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG056",
+    "name": "新見店",
+    "pref": "33",
+    "address": "新見市正田橋ノ本478",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.964447,
+      "lng": 133.47408
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG057",
+    "name": "東城店",
+    "pref": "34",
+    "address": "庄原市東城町川東1327",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.896622,
+      "lng": 133.277126
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG058",
+    "name": "東一宮店",
+    "pref": "33",
+    "address": "津山市東一宮67-7",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.101323,
+      "lng": 134.004186
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG059",
+    "name": "瀬戸店",
+    "pref": "33",
+    "address": "岡山市東区瀬戸町沖１１９",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.7229192,
+      "lng": 134.0436418
+    },
+    "closed": true
+  },
+  {
+    "code": "ZG060",
+    "name": "町苅田店",
+    "pref": "33",
+    "address": "赤磐市町苅田940-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.790392,
+      "lng": 134.009758
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG063",
+    "name": "中央インター店",
+    "pref": "37",
+    "address": "高松市木太町597",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.310513,
+      "lng": 134.073991
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG064",
+    "name": "邑久店",
+    "pref": "33",
+    "address": "瀬戸内市邑久町豊原86-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.664129,
+      "lng": 134.089813
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG065",
+    "name": "赤穂尾崎店",
+    "pref": "28",
+    "address": "赤穂市尾崎3158-8",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.740533,
+      "lng": 134.404211
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG066",
+    "name": "太子店",
+    "pref": "28",
+    "address": "揖保郡太子町鵤1319-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.834676,
+      "lng": 134.579691
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG067",
+    "name": "丸亀バサラ店",
+    "pref": "37",
+    "address": "丸亀市山北町50-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.269061,
+      "lng": 133.799963
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG068",
+    "name": "フレスポ高屋店",
+    "pref": "33",
+    "address": "岡山市中区高屋308-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.672465,
+      "lng": 133.966749
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG071",
+    "name": "蓬莱店",
+    "pref": "37",
+    "address": "丸亀市蓬莱町56-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.293765,
+      "lng": 133.783968
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG072",
+    "name": "乙島店",
+    "pref": "33",
+    "address": "倉敷市玉島乙島6880",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.536529,
+      "lng": 133.682091
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG073",
+    "name": "ノースランド店",
+    "pref": "33",
+    "address": "津山市上河原157",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.080527,
+      "lng": 134.004753
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG074",
+    "name": "高島店",
+    "pref": "33",
+    "address": "岡山市中区清水2-86-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.682884,
+      "lng": 133.954689
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG076",
+    "name": "中須店",
+    "pref": "34",
+    "address": "府中市中須町45-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.554215,
+      "lng": 133.268394
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG077",
+    "name": "金川店",
+    "pref": "33",
+    "address": "岡山市北区御津宇垣1483-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.78575,
+      "lng": 133.929833
+    },
+    "closed": true
+  },
+  {
+    "code": "ZG078",
+    "name": "江崎店",
+    "pref": "33",
+    "address": "岡山市中区江崎690-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.62,
+      "lng": 133.96576
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG079",
+    "name": "檀紙北店",
+    "pref": "37",
+    "address": "高松市飯田町30",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.313284,
+      "lng": 133.999689
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG080",
+    "name": "土庄店",
+    "pref": "37",
+    "address": "小豆郡土庄町王子前36-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.482257,
+      "lng": 134.188264
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG081",
+    "name": "ザグザグ薬局高島東店",
+    "pref": "33",
+    "address": "岡山市中区中井1丁目17番20号",
+    "storeType": 2,
+    "visited": false,
+    "loc": {
+      "lat": 34.683779,
+      "lng": 133.961772
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG082",
+    "name": "鬼無店",
+    "pref": "37",
+    "address": "高松市鬼無町佐藤54-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.32888,
+      "lng": 133.994306
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG084",
+    "name": "上福岡店",
+    "pref": "37",
+    "address": "高松市上福岡町769-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.33232,
+      "lng": 134.068314
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG085",
+    "name": "観音寺店",
+    "pref": "37",
+    "address": "観音寺市昭和町1-3-18",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.122587,
+      "lng": 133.656073
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG087",
+    "name": "駅家店",
+    "pref": "34",
+    "address": "福山市駅家町近田265",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.542618,
+      "lng": 133.316943
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG088",
+    "name": "稲荷町店",
+    "pref": "33",
+    "address": "倉敷市稲荷町9-24",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.594724,
+      "lng": 133.765872
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG089",
+    "name": "里庄店",
+    "pref": "33",
+    "address": "浅口郡里庄町里見9795-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.530373,
+      "lng": 133.56768
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG090",
+    "name": "本社",
+    "pref": "33",
+    "address": "岡山市中区清水３６９－２",
+    "storeType": 1,
+    "visited": false,
+    "loc": {
+      "lat": 34.6853463,
+      "lng": 133.95792
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG091",
+    "name": "庄原店",
+    "pref": "34",
+    "address": "庄原市戸郷町84",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.848419,
+      "lng": 133.01393
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG092",
+    "name": "高野店",
+    "pref": "33",
+    "address": "津山市高野本郷1416-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.071556,
+      "lng": 134.053019
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG093",
+    "name": "児島下の町店",
+    "pref": "33",
+    "address": "倉敷市児島下の町5丁目5-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.479851,
+      "lng": 133.82036
+    },
+    "closed": true
+  },
+  {
+    "code": "ZG094",
+    "name": "仏生山店",
+    "pref": "37",
+    "address": "高松市仏生山町甲1344",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.273691,
+      "lng": 134.034669
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG095",
+    "name": "笹沖店",
+    "pref": "33",
+    "address": "倉敷市笹沖471",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.575173,
+      "lng": 133.769926
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG096",
+    "name": "丸亀中府店",
+    "pref": "37",
+    "address": "丸亀市中府町1丁目3-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.277619,
+      "lng": 133.796992
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG097",
+    "name": "西原店",
+    "pref": "33",
+    "address": "倉敷市西阿知町西原832-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.585755,
+      "lng": 133.721656
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG100",
+    "name": "門田屋敷南店",
+    "pref": "33",
+    "address": "岡山市中区赤坂本町8-33",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.650638,
+      "lng": 133.937025
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG101",
+    "name": "栗林店",
+    "pref": "37",
+    "address": "高松市花ノ宮町3丁目1-48",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.3252,
+      "lng": 134.045378
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG102",
+    "name": "河辺店",
+    "pref": "33",
+    "address": "津山市河辺903",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.060092,
+      "lng": 134.046108
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG103",
+    "name": "春日店",
+    "pref": "37",
+    "address": "高松市春日町字川尻893-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.327538,
+      "lng": 134.09366
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG104",
+    "name": "穂浪店",
+    "pref": "33",
+    "address": "備前市穂浪2541-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.726991,
+      "lng": 134.233219
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG105",
+    "name": "西阿知店",
+    "pref": "33",
+    "address": "倉敷市西阿知町999-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.587498,
+      "lng": 133.728994
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG106",
+    "name": "三門店",
+    "pref": "33",
+    "address": "北区西崎1-9-38",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.664466,
+      "lng": 133.899621
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG107",
+    "name": "福山三吉店",
+    "pref": "34",
+    "address": "福山市三吉町1-5-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.494928,
+      "lng": 133.373251
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG108",
+    "name": "ザグザグ薬局下市店",
+    "pref": "33",
+    "address": "赤磐市下市364-3",
+    "storeType": 2,
+    "visited": false,
+    "loc": {
+      "lat": 34.754271,
+      "lng": 134.018504
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG109",
+    "name": "赤穂中広店",
+    "pref": "28",
+    "address": "赤穂市中広2-8",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.753883,
+      "lng": 134.400234
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG110",
+    "name": "神辺店",
+    "pref": "34",
+    "address": "福山市神辺町川北1435",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.542629,
+      "lng": 133.363357
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG111",
+    "name": "久米南店",
+    "pref": "33",
+    "address": "久米郡久米南町下弓削467",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.927898,
+      "lng": 133.960834
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG113",
+    "name": "大元店",
+    "pref": "33",
+    "address": "岡山市北区大元1-13-18",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.646957,
+      "lng": 133.90295
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG114",
+    "name": "林田店",
+    "pref": "37",
+    "address": "坂出市林田町3131",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.331421,
+      "lng": 133.891605
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG115",
+    "name": "長船店",
+    "pref": "33",
+    "address": "瀬戸内市長船町服部387-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.713415,
+      "lng": 134.107542
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG116",
+    "name": "三木店",
+    "pref": "37",
+    "address": "木田郡三木町鹿伏367-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.272292,
+      "lng": 134.137407
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG117",
+    "name": "新市店",
+    "pref": "34",
+    "address": "福山市新市町９８４−１",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.5450393,
+      "lng": 133.2925669
+    },
+    "closed": true
+  },
+  {
+    "code": "ZG118",
+    "name": "福富店",
+    "pref": "33",
+    "address": "岡山市南区豊成3-22-18",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.624838,
+      "lng": 133.927845
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG119",
+    "name": "わかば店",
+    "pref": "33",
+    "address": "岡山市南区若葉町26-20",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.610028,
+      "lng": 133.948765
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG120",
+    "name": "花の街店",
+    "pref": "33",
+    "address": "倉敷市宮前337",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.612853,
+      "lng": 133.766562
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG121",
+    "name": "大野原店",
+    "pref": "37",
+    "address": "観音寺市大野原町大野原3918-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.092818,
+      "lng": 133.656076
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG122",
+    "name": "和気店",
+    "pref": "33",
+    "address": "和気郡和気町福富442-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.793873,
+      "lng": 134.152547
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG124",
+    "name": "雄町店",
+    "pref": "33",
+    "address": "岡山市中区雄町492-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.687622,
+      "lng": 133.975102
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG125",
+    "name": "上庄店",
+    "pref": "33",
+    "address": "倉敷市上東506-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.650069,
+      "lng": 133.825369
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG126",
+    "name": "上郡店",
+    "pref": "28",
+    "address": "赤穂郡上郡町駅前125",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.866858,
+      "lng": 134.355655
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG127",
+    "name": "山手店",
+    "pref": "34",
+    "address": "福山市山手町6-4-7",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.49331,
+      "lng": 133.336644
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG128",
+    "name": "古市店",
+    "pref": "34",
+    "address": "広島市安佐南区古市3-21-4",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.456118,
+      "lng": 132.470238
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG129",
+    "name": "松永店",
+    "pref": "34",
+    "address": "福山市今津町3-8-60",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.452049,
+      "lng": 133.254604
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG130",
+    "name": "早島店",
+    "pref": "33",
+    "address": "都窪郡早島町前潟263-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.601019,
+      "lng": 133.827311
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG131",
+    "name": "白石店",
+    "pref": "33",
+    "address": "岡山市北区白石280-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.653388,
+      "lng": 133.87012
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG132",
+    "name": "備前店",
+    "pref": "33",
+    "address": "備前市伊部2374－1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.73834,
+      "lng": 134.153013
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG134",
+    "name": "長尾店",
+    "pref": "33",
+    "address": "玉野市長尾613-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.497181,
+      "lng": 133.889947
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG135",
+    "name": "伯方店",
+    "pref": "38",
+    "address": "今治市伯方町叶浦甲1666-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.207959,
+      "lng": 133.073028
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG136",
+    "name": "真庭垂水店",
+    "pref": "33",
+    "address": "真庭市落合垂水字妙見425-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.016522,
+      "lng": 133.75022
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG137?",
+    "name": "ザグザグ薬局山崎店",
+    "pref": "33",
+    "address": "岡山市中区山崎266-5",
+    "storeType": 2,
+    "visited": false,
+    "loc": {
+      "lat": 34.648667,
+      "lng": 133.974907
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG138",
+    "name": "坂店",
+    "pref": "34",
+    "address": "安芸郡坂町平成ヶ浜3丁目2-29",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.338179,
+      "lng": 132.508331
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG139",
+    "name": "光南店",
+    "pref": "34",
+    "address": "広島市中区光南１丁目16-27",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.367932,
+      "lng": 132.446602
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG140",
+    "name": "浜田原井店",
+    "pref": "32",
+    "address": "浜田市原井町946-2",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.888261,
+      "lng": 132.064288
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG141",
+    "name": "小原店",
+    "pref": "33",
+    "address": "津山市総社77-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.07662,
+      "lng": 133.998001
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG142",
+    "name": "笠岡番町店",
+    "pref": "33",
+    "address": "笠岡市富岡477-37",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.499231,
+      "lng": 133.521047
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG144",
+    "name": "妹尾店",
+    "pref": "33",
+    "address": "岡山市南区妹尾1883-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.616303,
+      "lng": 133.872799
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG145",
+    "name": "北長瀬店",
+    "pref": "33",
+    "address": "岡山市北区北長瀬表町3丁目2-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.649892,
+      "lng": 133.8859
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG146",
+    "name": "多治米店",
+    "pref": "34",
+    "address": "福山市多治米町５丁目23-39",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.468483,
+      "lng": 133.370664
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG147",
+    "name": "周匝店",
+    "pref": "33",
+    "address": "赤磐市周匝678-2",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.913429,
+      "lng": 134.091634
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG148",
+    "name": "総社東店",
+    "pref": "33",
+    "address": "総社市井手1242-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.680484,
+      "lng": 133.769551
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG149",
+    "name": "西之町店",
+    "pref": "33",
+    "address": "岡山市北区西之町9-109",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.650928,
+      "lng": 133.908648
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG150",
+    "name": "平田店",
+    "pref": "33",
+    "address": "倉敷市平田676-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.612408,
+      "lng": 133.783417
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG151",
+    "name": "香南店",
+    "pref": "37",
+    "address": "高松市香南町由佐850-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.238302,
+      "lng": 134.017834
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG152",
+    "name": "北方店",
+    "pref": "33",
+    "address": "岡山市北区北方2-1-24",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.687543,
+      "lng": 133.929743
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG154",
+    "name": "琴浦店",
+    "pref": "33",
+    "address": "倉敷市児島下の町10-1-39",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.473709,
+      "lng": 133.825534
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG155",
+    "name": "ザグザグ薬局西市店",
+    "pref": "33",
+    "address": "岡山市南区西市585-1",
+    "storeType": 2,
+    "visited": false,
+    "loc": {
+      "lat": 34.633869,
+      "lng": 133.894899
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG156",
+    "name": "西古松店",
+    "pref": "33",
+    "address": "岡山市北区西古松326-101",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.644744,
+      "lng": 133.905549
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG158",
+    "name": "千代田店",
+    "pref": "34",
+    "address": "山県郡北広島町有田1756",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.672167,
+      "lng": 132.535833
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG159",
+    "name": "下伊福店",
+    "pref": "33",
+    "address": "岡山市北区下伊福2丁目6番35号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.664244,
+      "lng": 133.905284
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG160",
+    "name": "中庄店",
+    "pref": "33",
+    "address": "倉敷市中庄7-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.611506,
+      "lng": 133.788037
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG161",
+    "name": "新見高尾店",
+    "pref": "33",
+    "address": "新見市高尾2477-7",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.988917,
+      "lng": 133.461887
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG162",
+    "name": "内海店",
+    "pref": "37",
+    "address": "小豆郡小豆島町草壁本町615-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.479337,
+      "lng": 134.300403
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG164",
+    "name": "イオンタウン宇多津店",
+    "pref": "37",
+    "address": "綾歌郡宇多津町浜2番丁16",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.308708,
+      "lng": 133.810154
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG165",
+    "name": "西大寺店",
+    "pref": "33",
+    "address": "岡山市東区西大寺中野930-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.657283,
+      "lng": 134.019805
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG167",
+    "name": "天城店",
+    "pref": "33",
+    "address": "倉敷市藤戸町天城666-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.564469,
+      "lng": 133.806436
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG168",
+    "name": "水江店",
+    "pref": "33",
+    "address": "倉敷市西阿知町117-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.595422,
+      "lng": 133.739783
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG170",
+    "name": "豊成店",
+    "pref": "33",
+    "address": "岡山市南区豊成1丁目3番7号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.634528,
+      "lng": 133.92954
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG171",
+    "name": "総社真壁店",
+    "pref": "33",
+    "address": "総社市駅南一丁目6番地6",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.668191,
+      "lng": 133.741024
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG172",
+    "name": "多肥下町店",
+    "pref": "37",
+    "address": "高松市多肥下町1550番2",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.301026,
+      "lng": 134.061085
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG173",
+    "name": "北畝店",
+    "pref": "33",
+    "address": "倉敷市北畝6-2-39",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.540195,
+      "lng": 133.752316
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG175",
+    "name": "児島柳田店",
+    "pref": "33",
+    "address": "倉敷市児島柳田町172-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.493279,
+      "lng": 133.802485
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG176",
+    "name": "向島店",
+    "pref": "34",
+    "address": "尾道市向島町5533-47",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.396574,
+      "lng": 133.198227
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG177",
+    "name": "下中野店",
+    "pref": "33",
+    "address": "岡山市北区下中野1217-2",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.636941,
+      "lng": 133.898884
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG178",
+    "name": "連島東店",
+    "pref": "33",
+    "address": "倉敷市連島5-2-50",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.550542,
+      "lng": 133.738542
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG179",
+    "name": "建部店",
+    "pref": "33",
+    "address": "岡山市北区建部町宮地67-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.855611,
+      "lng": 133.904084
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG180",
+    "name": "西条西本町店",
+    "pref": "34",
+    "address": "東広島市西条西本町27番33号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.427144,
+      "lng": 132.738906
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG181",
+    "name": "鹿角店",
+    "pref": "37",
+    "address": "高松市三名町743-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.296447,
+      "lng": 134.038206
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG182",
+    "name": "岡北店",
+    "pref": "33",
+    "address": "岡山市北区中井町2-5-35-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.683307,
+      "lng": 133.932817
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG183",
+    "name": "海吉店",
+    "pref": "33",
+    "address": "岡山市中区海吉1785-2",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.658683,
+      "lng": 133.985845
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG184",
+    "name": "玉島長尾店",
+    "pref": "33",
+    "address": "倉敷市玉島長尾556-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.574158,
+      "lng": 133.687231
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG185",
+    "name": "今店",
+    "pref": "33",
+    "address": "岡山市北区今五丁目13番32号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.646145,
+      "lng": 133.895908
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG186",
+    "name": "国分寺店",
+    "pref": "37",
+    "address": "高松市国分寺町新居1398-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.298646,
+      "lng": 133.960883
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG187",
+    "name": "東広島高屋店",
+    "pref": "34",
+    "address": "東広島市高屋町杵原1324-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.449842,
+      "lng": 132.786729
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG188",
+    "name": "丸亀三条店",
+    "pref": "37",
+    "address": "丸亀市三条町730-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.249455,
+      "lng": 133.808864
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG189",
+    "name": "福成店",
+    "pref": "33",
+    "address": "岡山市南区福成1-180-4",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.613379,
+      "lng": 133.931621
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG190",
+    "name": "木太店",
+    "pref": "37",
+    "address": "高松市木太町2805-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.334354,
+      "lng": 134.082912
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG191",
+    "name": "西大寺駅前店",
+    "pref": "33",
+    "address": "岡山市東区西大寺上三丁目2番8号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.658637,
+      "lng": 134.037398
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG192",
+    "name": "大安寺店",
+    "pref": "33",
+    "address": "岡山市北区大安寺南町2-4-5",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.659824,
+      "lng": 133.885095
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG193",
+    "name": "多度津店",
+    "pref": "37",
+    "address": "仲多度郡多度津町庄880",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.257739,
+      "lng": 133.755412
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG194",
+    "name": "丸亀新田店",
+    "pref": "37",
+    "address": "丸亀市新田町176",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.274667,
+      "lng": 133.785167
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG195",
+    "name": "姫路新在家店",
+    "pref": "28",
+    "address": "姫路市新在家中の町18番42号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.847414,
+      "lng": 134.685392
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG196",
+    "name": "奥田店",
+    "pref": "33",
+    "address": "岡山市北区奥田南町1番28号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.641475,
+      "lng": 133.919356
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG197",
+    "name": "川西店",
+    "pref": "37",
+    "address": "丸亀市川西町南428-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.252447,
+      "lng": 133.829681
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG198",
+    "name": "今里店",
+    "pref": "37",
+    "address": "高松市今里町1丁目493",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.328404,
+      "lng": 134.057717
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG199",
+    "name": "高砂伊保店",
+    "pref": "28",
+    "address": "高砂市伊保東一丁目4番30号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.771694,
+      "lng": 134.792083
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG200",
+    "name": "松縄店",
+    "pref": "37",
+    "address": "高松市松縄町1092-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.316139,
+      "lng": 134.064761
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG201",
+    "name": "宇多津店",
+    "pref": "37",
+    "address": "綾歌郡宇多津町浜四番丁42番1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.309953,
+      "lng": 133.815727
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG202",
+    "name": "東塚店",
+    "pref": "33",
+    "address": "倉敷市東塚1丁目７番20号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.522778,
+      "lng": 133.758806
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG203",
+    "name": "神戸学園都市店",
+    "pref": "28",
+    "address": "神戸市垂水区小束山手2丁目1-2",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.673931,
+      "lng": 135.06142
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG204",
+    "name": "倉吉南店",
+    "pref": "31",
+    "address": "倉吉市鍛冶町1丁目2971-27",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.429521,
+      "lng": 133.816065
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG205",
+    "name": "連島西之浦店",
+    "pref": "33",
+    "address": "倉敷市連島町西之浦581-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.548578,
+      "lng": 133.716764
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG206",
+    "name": "東加古川店",
+    "pref": "28",
+    "address": "加古川市平岡町高畑451番地17",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.738808,
+      "lng": 134.876717
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG207",
+    "name": "坂出駒止店",
+    "pref": "37",
+    "address": "坂出市駒止町一丁目2番19号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.311281,
+      "lng": 133.85534
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG208",
+    "name": "楽々園店",
+    "pref": "34",
+    "address": "広島市佐伯区楽々園五丁目9番11号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.361008,
+      "lng": 132.352639
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG209",
+    "name": "境港店",
+    "pref": "31",
+    "address": "境港市蓮池町57番１",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.540694,
+      "lng": 133.223944
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG210",
+    "name": "金川店",
+    "pref": "33",
+    "address": "岡山市北区御津宇垣1483-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.78575,
+      "lng": 133.929833
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG211",
+    "name": "三原皆実店",
+    "pref": "34",
+    "address": "三原市皆実4-19-16",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.391806,
+      "lng": 133.068222
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG212",
+    "name": "沼田伴店",
+    "pref": "34",
+    "address": "広島市安佐南区伴東7-58-5",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.461694,
+      "lng": 132.410444
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG213",
+    "name": "古宮店",
+    "pref": "28",
+    "address": "加古郡播磨町古宮7-1-57",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.711056,
+      "lng": 134.864194
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG214",
+    "name": "ウエストランド店",
+    "pref": "33",
+    "address": "津山市二宮71",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.060361,
+      "lng": 133.959111
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG215",
+    "name": "西品治店",
+    "pref": "31",
+    "address": "鳥取市西品治861-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.509694,
+      "lng": 134.226333
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG216",
+    "name": "吉方温泉店",
+    "pref": "31",
+    "address": "鳥取市吉方温泉3-759",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.491361,
+      "lng": 134.234167
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG217",
+    "name": "玉島店",
+    "pref": "33",
+    "address": "倉敷市玉島中央町2-1-50",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.546953,
+      "lng": 133.670723
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG218",
+    "name": "ハローズモール玉島店",
+    "pref": "33",
+    "address": "倉敷市玉島1962-8",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.556694,
+      "lng": 133.681806
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG219",
+    "name": "姫路大津店",
+    "pref": "28",
+    "address": "姫路市大津区恵美酒町2-113",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.7915,
+      "lng": 134.609
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG220",
+    "name": "志戸部店",
+    "pref": "33",
+    "address": "津山市沼848-16",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.073188,
+      "lng": 134.015683
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG221",
+    "name": "高瀬店",
+    "pref": "34",
+    "address": "三豊市高瀬町下勝間2475",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.182306,
+      "lng": 133.717
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG222",
+    "name": "金光店",
+    "pref": "33",
+    "address": "浅口市金光町占見新田46-2",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.541111,
+      "lng": 133.6115
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG223",
+    "name": "在宅支援ザグザグ薬局大福店",
+    "pref": "33",
+    "address": "岡山市南区大福411-1",
+    "storeType": 2,
+    "visited": false,
+    "loc": {
+      "lat": 34.616889,
+      "lng": 133.873556
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG224",
+    "name": "姫路五軒邸店",
+    "pref": "28",
+    "address": "姫路市五軒邸2-116",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.837889,
+      "lng": 134.702
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG225",
+    "name": "姫路土山店",
+    "pref": "28",
+    "address": "姫路市土山3-3-25",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.833917,
+      "lng": 134.674444
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG226",
+    "name": "呉広店",
+    "pref": "34",
+    "address": "呉市広駅前1-7-38",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.232306,
+      "lng": 132.628944
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG227",
+    "name": "西中新田店",
+    "pref": "33",
+    "address": "倉敷市西中新田462-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.582611,
+      "lng": 133.764639
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG228",
+    "name": "東福原店",
+    "pref": "31",
+    "address": "米子市東福原6-6-33",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.446972,
+      "lng": 133.344444
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG229",
+    "name": "雲山店",
+    "pref": "31",
+    "address": "鳥取市雲山134-3",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.479944,
+      "lng": 134.234917
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG230",
+    "name": "川西久代店",
+    "pref": "28",
+    "address": "川西市久代2-14-2",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.8055,
+      "lng": 135.411139
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG231",
+    "name": "倉吉八屋店",
+    "pref": "31",
+    "address": "倉吉市八屋159-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.442861,
+      "lng": 133.849806
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG232",
+    "name": "ハローズモール小野店",
+    "pref": "28",
+    "address": "小野市王子町806-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.853362,
+      "lng": 134.93165
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG233",
+    "name": "宝殿店",
+    "pref": "28",
+    "address": "高砂市米田町島64-9",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.785944,
+      "lng": 134.805694
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG234",
+    "name": "相生栄町店",
+    "pref": "28",
+    "address": "相生市栄町10-41",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.816194,
+      "lng": 134.470889
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG235",
+    "name": "尾道高須店",
+    "pref": "34",
+    "address": "尾道市高須町5280",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.432385,
+      "lng": 133.22973
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG236",
+    "name": "呉中央店",
+    "pref": "34",
+    "address": "呉市西中央3-7-34",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.249389,
+      "lng": 132.56125
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG237",
+    "name": "善通寺店",
+    "pref": "37",
+    "address": "善通寺市生野町830",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.226305,
+      "lng": 133.793655
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG238",
+    "name": "新涯店",
+    "pref": "34",
+    "address": "福山市新涯町三丁目10番9号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.46213,
+      "lng": 133.390529
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG239",
+    "name": "住吉南店",
+    "pref": "28",
+    "address": "神戸市東灘区住吉南町2丁目1番38号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.709589,
+      "lng": 135.265471
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG240",
+    "name": "道笑町",
+    "pref": "31",
+    "address": "米子市道笑町四丁目27-1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.4228,
+      "lng": 133.347947
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG241",
+    "name": "原尾島店",
+    "pref": "33",
+    "address": "岡山市中区原尾島四丁目10番7",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.668789,
+      "lng": 133.951507
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG242",
+    "name": "勝央店",
+    "pref": "33",
+    "address": "勝田郡勝央町岡517",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.033775,
+      "lng": 134.125509
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG243",
+    "name": "坂出京町店",
+    "pref": "37",
+    "address": "坂出市京町三丁目6番28号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.318389,
+      "lng": 133.858222
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG244",
+    "name": "吉原店",
+    "pref": "27",
+    "address": "東大阪市吉原二丁目3番22号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.685929,
+      "lng": 135.624666
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG245",
+    "name": "瀬戸店",
+    "pref": "33",
+    "address": "岡山市東区瀬戸町沖355-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.71887,
+      "lng": 134.046071
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG246",
+    "name": "熊野店",
+    "pref": "34",
+    "address": "安芸郡熊野町出来庭五丁目3番3号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.335386,
+      "lng": 132.57966
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG247",
+    "name": "築港店",
+    "pref": "33",
+    "address": "岡山市南区海岸通二丁目4番16号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.60814,
+      "lng": 133.95545
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG248",
+    "name": "白鳥店",
+    "pref": "34",
+    "address": "東かがわ市湊1902番地1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.243834,
+      "lng": 134.359225
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG249",
+    "name": "加古川平岡店",
+    "pref": "28",
+    "address": "加古川市平岡町新在家字坪井41番1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.740945,
+      "lng": 134.869203
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG250",
+    "name": "名谷店",
+    "pref": "28",
+    "address": "神戸市垂水区名谷町字入野788番1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.657477,
+      "lng": 135.072147
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG251",
+    "name": "屋島西町店",
+    "pref": "37",
+    "address": "高松市屋島西町1420番地1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.342756,
+      "lng": 134.095199
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG252",
+    "name": "西宝町店",
+    "pref": "37",
+    "address": "高松市西宝町一丁目5番21号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.342219,
+      "lng": 134.02966
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG253",
+    "name": "玉津店",
+    "pref": "28",
+    "address": "神戸市西区玉津町高津橋604-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.670902,
+      "lng": 134.994083
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG254",
+    "name": "安江店",
+    "pref": "33",
+    "address": "倉敷市安江92-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.600253,
+      "lng": 133.748489
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG255",
+    "name": "花田店",
+    "pref": "28",
+    "address": "姫路市花田町上原田214",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.837893,
+      "lng": 134.735029
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG256",
+    "name": "枝吉店",
+    "pref": "28",
+    "address": "神戸市西区枝吉1丁目264番地4",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.659451,
+      "lng": 134.977039
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG257",
+    "name": "西高崎店",
+    "pref": "33",
+    "address": "岡山市南区西高崎5番地303",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.543782,
+      "lng": 133.887863
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG258",
+    "name": "南蔵王３丁目店",
+    "pref": "34",
+    "address": "福山市南蔵王町三丁目16番33号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.500252,
+      "lng": 133.397339
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG259",
+    "name": "久留麻店",
+    "pref": "28",
+    "address": "淡路市久留麻2028番地1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.523861,
+      "lng": 134.988789
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG260",
+    "name": "高野本郷店",
+    "pref": "33",
+    "address": "津山市高野本郷1484-2",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 35.073508,
+      "lng": 134.055492
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG261",
+    "name": "勅使店",
+    "pref": "37",
+    "address": "高松市勅使町753番地1",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.305426,
+      "lng": 134.01602
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG262",
+    "name": "児島下の町店",
+    "pref": "33",
+    "address": "倉敷市児島下の町5丁目6番26号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.481806,
+      "lng": 133.817306
+    },
+    "closed": false
+  }
+]
