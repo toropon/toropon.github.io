@@ -47,7 +47,7 @@ export default function List() {
       <Center mt="30">
         <Stack align="strech" gap="xs">
           <Wrapper
-            apiKey={import.meta.env.VITE_GOOGLE_MAP_APIKEY}
+            apiKey={env.VITE_GOOGLE_MAP_APIKEY}
             render={renderMap}
             libraries={["marker"]}
           >
