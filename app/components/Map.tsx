@@ -21,7 +21,7 @@ export default function Map({ children }) {
   useEffect(() => {
     if (ref.current && !map) {
       const options = {
-        mapId: import.meta.env.VITE_GOOGLE_MAP_ID,
+        mapId: env.VITE_GOOGLE_MAP_ID,
         center: DEFAULT.CENTER,
         zoom: DEFAULT.ZOOM,
         streetViewControl: false,
