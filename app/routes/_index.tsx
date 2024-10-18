@@ -1,5 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
-import { Link } from "@remix-run/react";
+import { Link, useNavigate } from "@remix-run/react";
+import { useEffect } from "react";
 
 export const meta: MetaFunction = () => {
   return [
@@ -9,6 +10,12 @@ export const meta: MetaFunction = () => {
 };
 
 export default function Index() {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    navigate("/list");
+  }, []);
+
   return (
     <div className="font-sans p-4">
       <Link to="/list">リスト</Link>
