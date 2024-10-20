@@ -5,7 +5,7 @@ const DEFAULT = {
     lat: 34.8345377,
     lng: 133.9297555,
   },
-  ZOOM: 8.5,
+  ZOOM: 8,
 } as const;
 
 const VIEW_STYLE = {

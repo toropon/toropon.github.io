@@ -5,8 +5,16 @@ import Marker from "../components/Marker";
 import ShopCard from "../components/ShopCard";
 import shopData from "../data/shopList.json";
 import prefList from "../data/pref.json";
-import { Accordion, Center, Button, Stack } from "@mantine/core";
-import { ShopInfo } from "../interfaces/interface";
+import {
+  Accordion,
+  Center,
+  Button,
+  Stack,
+  Group,
+  Text,
+  Grid,
+} from "@mantine/core";
+import { ShopInfo, StoreType } from "../interfaces/interface";
 
 export default function List() {
   const [shopList, setShopList] = useState<ShopInfo[]>([]);
@@ -37,10 +45,31 @@ export default function List() {
     return <h1>{status}</h1>;
   };
 
-  const totalCount = shopList.filter((shop) => !shop.closed).length;
-  const visitCount = shopList.filter(
-    (shop) => !shop.closed && shop.visited
+  const totalCount = shopList.filter((shop) =>
+    officialCountCondition(shop)
   ).length;
+  const visitCount = shopList.filter(
+    (shop) => officialCountCondition(shop) && shop.visited
+  ).length;
+
+  const exceptPharmacyTotalCount = shopList.filter((shop) =>
+    exceptPharmacyCountCondition(shop)
+  ).length;
+  const exceptPharmacyVisitCount = shopList.filter(
+    (shop) => exceptPharmacyCountCondition(shop) && shop.visited
+  ).length;
+
+  function officialCountCondition(shop: ShopInfo) {
+    return !shop.closed && shop.storeType != StoreType.HeadOffice;
+  }
+
+  function exceptPharmacyCountCondition(shop: ShopInfo) {
+    return (
+      !shop.closed &&
+      shop.storeType != StoreType.HeadOffice &&
+      shop.storeType != StoreType.Pharmacy
+    );
+  }
 
   return (
     <>
@@ -53,16 +82,30 @@ export default function List() {
           >
             <Map>
               {shopList.map((shop) => (
-                // <>
-                //   <Marker shopInfo={shop} key={shop.code} />
-                //   <CustomMarker options={shop.loc} map={map} />
-                // </>
-                // <CustomMarker options={shop.loc} map={map} />
                 <Marker shopInfo={shop} key={shop.code} />
               ))}
             </Map>
           </Wrapper>
-          {visitCount} / {totalCount}
+          <Grid align="center">
+            <Grid.Col span={2}>
+              <Text align="right">店舗数：</Text>
+            </Grid.Col>
+            <Grid.Col span={9}>
+              <Text>
+                {visitCount} / {totalCount}
+              </Text>
+            </Grid.Col>
+          </Grid>
+          <Grid align="center">
+            <Grid.Col span={2}>
+              <Text align="right">店舗数(薬局除外)：</Text>
+            </Grid.Col>
+            <Grid.Col span={9}>
+              <Text>
+                {exceptPharmacyVisitCount} / {exceptPharmacyTotalCount}
+              </Text>
+            </Grid.Col>
+          </Grid>
           <Accordion w={1000} variant="contained">
             <Accordion.Item value="open">
               <Accordion.Control>zag</Accordion.Control>
