@@ -8,11 +8,11 @@ import prefList from "../data/pref.json";
 import {
   Accordion,
   Center,
-  Button,
   Stack,
-  Group,
   Text,
   Grid,
+  Progress,
+  Space,
 } from "@mantine/core";
 import { ShopInfo, StoreType } from "../interfaces/interface";
 
@@ -86,24 +86,43 @@ export default function List() {
               ))}
             </Map>
           </Wrapper>
+          <Space h={20} />
           <Grid align="center">
             <Grid.Col span={2}>
               <Text align="right">店舗数：</Text>
             </Grid.Col>
-            <Grid.Col span={9}>
+            <Grid.Col span={1}>
               <Text>
                 {visitCount} / {totalCount}
               </Text>
+            </Grid.Col>
+            <Grid.Col span={8}>
+              <Progress.Root>
+                <Progress.Section
+                  color="zaggreen"
+                  value={(visitCount / totalCount) * 100}
+                />
+              </Progress.Root>
             </Grid.Col>
           </Grid>
           <Grid align="center">
             <Grid.Col span={2}>
               <Text align="right">店舗数(薬局除外)：</Text>
             </Grid.Col>
-            <Grid.Col span={9}>
+            <Grid.Col span={1}>
               <Text>
                 {exceptPharmacyVisitCount} / {exceptPharmacyTotalCount}
               </Text>
+            </Grid.Col>
+            <Grid.Col span={8}>
+              <Progress.Root>
+                <Progress.Section
+                  color="zaggreen"
+                  value={
+                    (exceptPharmacyVisitCount / exceptPharmacyTotalCount) * 100
+                  }
+                />
+              </Progress.Root>
             </Grid.Col>
           </Grid>
           <Accordion w={1000} variant="contained">
