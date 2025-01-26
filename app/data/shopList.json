@@ -2277,7 +2277,7 @@
     "pref": "33",
     "address": "浅口市金光町占見新田46-2",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.541111,
       "lng": 133.6115
@@ -2827,6 +2827,19 @@
     "loc": {
       "lat": 34.652641,
       "lng": 133.964994
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG265",
+    "name": "新倉敷店",
+    "pref": "33",
+    "address": "倉敷市新倉敷駅前1丁目103-3",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.562597,
+      "lng": 133.677928
     },
     "closed": false
   }
