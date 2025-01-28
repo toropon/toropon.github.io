@@ -87,6 +87,7 @@ export default function List() {
             </Map>
           </Wrapper>
           <Space h={20} />
+
           <Grid align="center">
             <Grid.Col span={2}>
               <Text align="right">店舗数：</Text>
@@ -125,8 +126,8 @@ export default function List() {
               </Progress.Root>
             </Grid.Col>
           </Grid>
-          <Accordion w={1000} variant="contained">
-            <Accordion.Item value="open">
+          <Accordion w={1000} variant="contained" defaultValue={"zag"}>
+            <Accordion.Item value="zag">
               <Accordion.Control>zag</Accordion.Control>
               <Accordion.Panel>
                 {shopList.map((shop) => (
