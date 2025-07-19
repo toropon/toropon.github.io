@@ -88,7 +88,6 @@ export default function List() {
           </Wrapper>
           <Space h={20} />
 
-          <Space h={20} />
           <Grid align="center">
             <Grid.Col span={2}>
               <Text align="right">店舗数：</Text>

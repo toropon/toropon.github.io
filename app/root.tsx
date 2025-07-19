@@ -6,8 +6,9 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import "./tailwind.css";
-import { MantineProvider } from "@mantine/core";
+import { MantineProvider, useMantineTheme } from "@mantine/core";
 import "@mantine/core/styles.css";
+import { theme } from "./themes/theme";
 
 export function HydrateFallback() {
   return (
@@ -23,7 +24,7 @@ export default function Component() {
     <>
       <Links />
 
-      <MantineProvider>
+      <MantineProvider theme={theme} withGlobalClasses withCssVariables>
         <div>
           <Outlet />
           <Scripts />
