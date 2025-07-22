@@ -109,7 +109,7 @@
     "pref": "34",
     "address": "福山市大門町2-23-46",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.495904,
       "lng": 133.441168
@@ -1237,7 +1237,7 @@
     "pref": "38",
     "address": "今治市伯方町叶浦甲1666-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.207959,
       "lng": 133.073028
@@ -2446,7 +2446,7 @@
     "pref": "34",
     "address": "尾道市高須町5280",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.432385,
       "lng": 133.22973
