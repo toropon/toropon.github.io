@@ -2972,5 +2972,18 @@
       "lng": 135.359041
     },
     "closed": false
+  },
+  {
+    "code": "ZG276",
+    "name": "立花店",
+    "pref": "28",
+    "address": "尼崎市栗山町二丁目25番6号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.745071,
+      "lng": 135.404567
+    },
+    "closed": false
   }
 ]
