@@ -1619,7 +1619,7 @@
       "lat": 34.634528,
       "lng": 133.92954
     },
-    "closed": false
+    "closed": true
   },
   {
     "code": "ZG171",
@@ -1978,7 +1978,7 @@
     "pref": "28",
     "address": "高砂市伊保東一丁目4番30号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.771694,
       "lng": 134.792083
@@ -2069,7 +2069,7 @@
     "pref": "28",
     "address": "加古川市平岡町高畑451番地17",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.738808,
       "lng": 134.876717
@@ -2108,7 +2108,7 @@
     "pref": "31",
     "address": "境港市蓮池町57番１",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.540694,
       "lng": 133.223944
@@ -2160,7 +2160,7 @@
     "pref": "28",
     "address": "加古郡播磨町古宮7-1-57",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.711056,
       "lng": 134.864194
@@ -2238,7 +2238,7 @@
     "pref": "28",
     "address": "姫路市大津区恵美酒町2-113",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.7915,
       "lng": 134.609
@@ -2329,7 +2329,7 @@
     "pref": "34",
     "address": "呉市広駅前1-7-38",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.232306,
       "lng": 132.628944
@@ -2355,7 +2355,7 @@
     "pref": "31",
     "address": "米子市東福原6-6-33",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.446972,
       "lng": 133.344444
@@ -2420,7 +2420,7 @@
     "pref": "28",
     "address": "高砂市米田町島64-9",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.785944,
       "lng": 134.805694
@@ -2433,7 +2433,7 @@
     "pref": "28",
     "address": "相生市栄町10-41",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.816194,
       "lng": 134.470889
@@ -2459,7 +2459,7 @@
     "pref": "34",
     "address": "呉市西中央3-7-34",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.249389,
       "lng": 132.56125
@@ -2511,7 +2511,7 @@
     "pref": "31",
     "address": "米子市道笑町四丁目27-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.4228,
       "lng": 133.347947
@@ -2628,7 +2628,7 @@
     "pref": "28",
     "address": "加古川市平岡町新在家字坪井41番1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.740945,
       "lng": 134.869203
@@ -2983,6 +2983,84 @@
     "loc": {
       "lat": 34.745071,
       "lng": 135.404567
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG277",
+    "name": "砥堀店",
+    "pref": "28",
+    "address": "姫路市砥堀１８８番地",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.864122,
+      "lng": 134.724324
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG278",
+    "name": "両三柳店",
+    "pref": "31",
+    "address": "米子市両三柳287-1",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 35.449225,
+      "lng": 133.321801
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG279",
+    "name": "ハローズモール観音新町店",
+    "pref": "34",
+    "address": "広島市西区観音新町三丁目7番43号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.374703,
+      "lng": 132.424464
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG280",
+    "name": "北在家店",
+    "pref": "28",
+    "address": "加古川市加古川町北在家2699",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.759072,
+      "lng": 134.841028
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG281",
+    "name": "西町店",
+    "pref": "37",
+    "address": "高松市西町13番27号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.347289,
+      "lng": 134.025735
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG282",
+    "name": "ハローズモール呉広店",
+    "pref": "34",
+    "address": "呉市広大新開二丁目1番1号",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.23366,
+      "lng": 132.625505
     },
     "closed": false
   }
