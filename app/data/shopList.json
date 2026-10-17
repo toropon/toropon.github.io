@@ -2862,7 +2862,7 @@
     "pref": "33",
     "address": "小田郡矢掛町本堀1101-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.612361,
       "lng": 133.563384
@@ -3061,6 +3061,84 @@
     "loc": {
       "lat": 34.23366,
       "lng": 132.625505
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG283",
+    "name": "王塚台店",
+    "pref": "28",
+    "address": "神戸市西区王塚台五丁目15番",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.675509,
+      "lng": 134.973581
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG284",
+    "name": "八本松東店",
+    "pref": "34",
+    "address": "東広島市八本松東三丁目11番5号",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.446595,
+      "lng": 132.707573
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG285",
+    "name": "寺家店",
+    "pref": "34",
+    "address": "東広島市西条町寺家７９２４番地",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.42379,
+      "lng": 132.729718
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG286",
+    "name": "新徳田店",
+    "pref": "34",
+    "address": "福山市神辺町新徳田二丁目240",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.547986,
+      "lng": 133.368207
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG287",
+    "name": "西富井店",
+    "pref": "33",
+    "address": "倉敷市西富井1239",
+    "storeType": 0,
+    "visited": true,
+    "loc": {
+      "lat": 34.570995,
+      "lng": 133.749396
+    },
+    "closed": false
+  },
+  {
+    "code": "ZG288",
+    "name": "鈴蘭台店",
+    "pref": "28",
+    "address": "神戸市北区松宮台２丁目27-10",
+    "storeType": 0,
+    "visited": false,
+    "loc": {
+      "lat": 34.737596,
+      "lng": 135.143433
     },
     "closed": false
   }
