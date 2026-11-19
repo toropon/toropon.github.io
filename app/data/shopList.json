@@ -366,7 +366,7 @@
     "pref": "33",
     "address": "新見市正田橋ノ本478",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.964447,
       "lng": 133.47408
@@ -379,7 +379,7 @@
     "pref": "34",
     "address": "庄原市東城町川東1327",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.896622,
       "lng": 133.277126
@@ -730,7 +730,7 @@
     "pref": "34",
     "address": "庄原市戸郷町84",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.848419,
       "lng": 133.01393
@@ -1159,7 +1159,7 @@
     "pref": "34",
     "address": "広島市安佐南区古市3-21-4",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.456118,
       "lng": 132.470238
@@ -1276,7 +1276,7 @@
     "pref": "34",
     "address": "安芸郡坂町平成ヶ浜3丁目2-29",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.338179,
       "lng": 132.508331
@@ -1289,7 +1289,7 @@
     "pref": "34",
     "address": "広島市中区光南１丁目16-27",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.367932,
       "lng": 132.446602
@@ -1497,7 +1497,7 @@
     "pref": "34",
     "address": "山県郡北広島町有田1756",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.672167,
       "lng": 132.535833
@@ -1536,7 +1536,7 @@
     "pref": "33",
     "address": "新見市高尾2477-7",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.988917,
       "lng": 133.461887
@@ -1731,7 +1731,7 @@
     "pref": "34",
     "address": "東広島市西条西本町27番33号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.427144,
       "lng": 132.738906
@@ -1822,7 +1822,7 @@
     "pref": "34",
     "address": "東広島市高屋町杵原1324-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.449842,
       "lng": 132.786729
@@ -2043,7 +2043,7 @@
     "pref": "31",
     "address": "倉吉市鍛冶町1丁目2971-27",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.429521,
       "lng": 133.816065
@@ -2095,7 +2095,7 @@
     "pref": "34",
     "address": "広島市佐伯区楽々園五丁目9番11号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.361008,
       "lng": 132.352639
@@ -2147,7 +2147,7 @@
     "pref": "34",
     "address": "広島市安佐南区伴東7-58-5",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.461694,
       "lng": 132.410444
@@ -2186,7 +2186,7 @@
     "pref": "31",
     "address": "鳥取市西品治861-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.509694,
       "lng": 134.226333
@@ -2199,7 +2199,7 @@
     "pref": "31",
     "address": "鳥取市吉方温泉3-759",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.491361,
       "lng": 134.234167
@@ -2368,7 +2368,7 @@
     "pref": "31",
     "address": "鳥取市雲山134-3",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.479944,
       "lng": 134.234917
@@ -2394,7 +2394,7 @@
     "pref": "31",
     "address": "倉吉市八屋159-1",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 35.442861,
       "lng": 133.849806
@@ -2589,7 +2589,7 @@
     "pref": "34",
     "address": "安芸郡熊野町出来庭五丁目3番3号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.335386,
       "lng": 132.57966
@@ -2927,7 +2927,7 @@
     "pref": "34",
     "address": "広島市安佐北区可部南二丁目3番8号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.503888,
       "lng": 132.51569
@@ -3018,7 +3018,7 @@
     "pref": "34",
     "address": "広島市西区観音新町三丁目7番43号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.374703,
       "lng": 132.424464
@@ -3083,7 +3083,7 @@
     "pref": "34",
     "address": "東広島市八本松東三丁目11番5号",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.446595,
       "lng": 132.707573
@@ -3096,7 +3096,7 @@
     "pref": "34",
     "address": "東広島市西条町寺家７９２４番地",
     "storeType": 0,
-    "visited": false,
+    "visited": true,
     "loc": {
       "lat": 34.42379,
       "lng": 132.729718
